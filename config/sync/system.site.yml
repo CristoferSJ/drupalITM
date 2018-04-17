@@ -1,0 +1,14 @@
+uuid: a3d022c5-48e6-4722-bde8-3053ad0f0358
+name: Drupal-8-ITM
+mail: cristofcsj@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /user/login
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
