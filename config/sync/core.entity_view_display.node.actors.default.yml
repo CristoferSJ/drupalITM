@@ -1,0 +1,26 @@
+uuid: e9430ff7-6346-46ad-b39c-c1629993d6d2
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.actors.body
+    - node.type.actors
+  module:
+    - text
+    - user
+id: node.actors.default
+targetEntityType: node
+bundle: actors
+mode: default
+content:
+  body:
+    label: hidden
+    type: text_default
+    weight: 101
+    settings: {  }
+    third_party_settings: {  }
+    region: content
+  links:
+    weight: 100
+    region: content
+hidden: {  }
