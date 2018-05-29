@@ -1,0 +1,10 @@
+uuid: 4b59c033-45b7-4fde-8526-fbcad18b9408
+langcode: en
+status: true
+dependencies: {  }
+id: event
+label: 'EVENT CREATOR'
+weight: 3
+is_admin: null
+permissions:
+  - 'acces demo configuration'

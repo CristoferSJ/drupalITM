@@ -1,0 +1,9 @@
+uuid: 47c5ba3a-a2cb-4078-9589-41dec1a99933
+langcode: en
+status: true
+dependencies: {  }
+id: admin_pruebas
+label: 'Admin pruebas'
+weight: 2
+is_admin: null
+permissions: {  }

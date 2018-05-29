@@ -1,0 +1,9 @@
+uuid: d7d3ae04-b74c-4caa-b6e7-7a7a8868d335
+langcode: en
+status: true
+dependencies: {  }
+name: descuento
+vid: descuento
+description: ''
+hierarchy: 0
+weight: 0

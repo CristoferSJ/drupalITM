@@ -1,0 +1,20 @@
+uuid: 968b23cf-05b1-4389-b8f4-60ed4a5b306c
+langcode: en
+status: true
+dependencies:
+  module:
+    - drupal_itm_demos
+  theme:
+    - demo_theme
+id: demo_theme_subscribeblock
+theme: demo_theme
+region: sidebar_first
+weight: 0
+provider: null
+plugin: subscribe_block
+settings:
+  id: subscribe_block
+  label: 'Subscribe block'
+  provider: drupal_itm_demos
+  label_display: '0'
+visibility: {  }

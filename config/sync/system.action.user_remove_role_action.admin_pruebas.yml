@@ -1,0 +1,14 @@
+uuid: 5920998b-62b1-445c-98cd-cfe1f2cc2aa3
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.admin_pruebas
+  module:
+    - user
+id: user_remove_role_action.admin_pruebas
+label: 'Remove the Admin pruebas role from the selected user(s)'
+type: user
+plugin: user_remove_role_action
+configuration:
+  rid: admin_pruebas

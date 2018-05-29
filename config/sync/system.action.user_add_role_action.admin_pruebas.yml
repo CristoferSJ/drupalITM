@@ -1,0 +1,14 @@
+uuid: 70cd43bf-9862-4987-98c8-74149747525b
+langcode: en
+status: true
+dependencies:
+  config:
+    - user.role.admin_pruebas
+  module:
+    - user
+id: user_add_role_action.admin_pruebas
+label: 'Add the Admin pruebas role to the selected user(s)'
+type: user
+plugin: user_add_role_action
+configuration:
+  rid: admin_pruebas

@@ -1,0 +1,9 @@
+uuid: f86bac16-49ad-4f2f-b945-7a8659653e67
+langcode: en
+status: true
+dependencies: {  }
+name: types
+vid: types
+description: tipos
+hierarchy: 0
+weight: 0
