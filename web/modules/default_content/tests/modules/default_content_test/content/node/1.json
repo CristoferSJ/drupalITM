@@ -1,0 +1,228 @@
+{
+    "_links": {
+        "self": {
+            "href": "http:\/\/default\/node\/1?_format=hal_json"
+        },
+        "type": {
+            "href": "http:\/\/drupal.org\/rest\/type\/node\/article"
+        },
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/revision_uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/uid": [
+            {
+                "href": "http:\/\/default\/user\/1?_format=hal_json",
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/field_categoria": [
+            {
+                "href": "http:\/\/default\/taxonomy\/term\/1?_format=hal_json"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/field_image": [
+            {
+                "href": "http:\/\/default\/sites\/default\/files\/2018-03\/gen1A24.tmp.png",
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/field_tags": [
+            {
+                "href": "http:\/\/default\/causa-inhibeo-laoreet-patria-vero.?_format=hal_json",
+                "lang": "en"
+            }
+        ]
+    },
+    "nid": [
+        {
+            "value": 1
+        }
+    ],
+    "uuid": [
+        {
+            "value": "5ed8ed72-8989-4d0b-a6d1-501c1e1da0d5"
+        }
+    ],
+    "vid": [
+        {
+            "value": 1
+        }
+    ],
+    "langcode": [
+        {
+            "value": "en",
+            "lang": "en"
+        }
+    ],
+    "type": [
+        {
+            "target_id": "article"
+        }
+    ],
+    "revision_timestamp": [
+        {
+            "value": "2018-03-22T22:27:25+00:00",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "_embedded": {
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/revision_uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "16ccd214-ddbd-4e30-8a2c-39682f353549"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/uid": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/user\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/user\/user"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "16ccd214-ddbd-4e30-8a2c-39682f353549"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/field_categoria": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/taxonomy\/term\/1?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/taxonomy_term\/categories"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "13c916ce-9256-4134-a2e6-848e34a9c129"
+                    }
+                ]
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/field_image": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/sites\/default\/files\/2018-03\/gen1A24.tmp.png"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/file\/file"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "5a49220b-06c4-4bb3-8eef-5aeb29976eec"
+                    }
+                ],
+                "lang": "en"
+            }
+        ],
+        "http:\/\/drupal.org\/rest\/relation\/node\/article\/field_tags": [
+            {
+                "_links": {
+                    "self": {
+                        "href": "http:\/\/default\/causa-inhibeo-laoreet-patria-vero.?_format=hal_json"
+                    },
+                    "type": {
+                        "href": "http:\/\/drupal.org\/rest\/type\/taxonomy_term\/tags"
+                    }
+                },
+                "uuid": [
+                    {
+                        "value": "85125bb8-f2aa-47c0-9e8a-45780a6334f4"
+                    }
+                ],
+                "lang": "en"
+            }
+        ]
+    },
+    "status": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "title": [
+        {
+            "value": "Consequat",
+            "lang": "en"
+        }
+    ],
+    "created": [
+        {
+            "value": "2018-03-18T08:10:38+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "changed": [
+        {
+            "value": "2018-03-22T22:27:25+00:00",
+            "lang": "en",
+            "format": "Y-m-d\\TH:i:sP"
+        }
+    ],
+    "promote": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "sticky": [
+        {
+            "value": false,
+            "lang": "en"
+        }
+    ],
+    "default_langcode": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "revision_translation_affected": [
+        {
+            "value": true,
+            "lang": "en"
+        }
+    ],
+    "metatag": [
+        {
+            "value": {
+                "title": "Consequat | Drupal-8-ITM",
+                "canonical_url": "http:\/\/default\/node\/1",
+                "description": "Autem cui illum. Feugiat ideo letalis nibh nunc nutus paratus quidem utrum. Et meus refero sagaciter virtus zelus. Abluo cogo diam modo. Dolor facilisis nimis. Enim laoreet tation. Feugiat hendrerit praesent. Hos nibh persto praesent rusticus. Diam feugiat ideo jumentum neque quidne vel. Blandit jumentum modo nostrud pertineo usitas venio.\nElit iusto lobortis occuro refero sino vicis. Defui erat quae refoveo tego zelus. Adipiscing haero humo paratus sed. Ideo magna qui secundum. Bene dolor laoreet mauris nutus plaga similis tamen veniam vindico. Aliquam cogo decet ideo illum ulciscor zelus. Ille laoreet natu nulla quidne sagaciter tego. Abico aliquip blandit facilisi haero praemitto proprius typicus.\nAutem ille qui quibus utinam. Adipiscing aliquam commodo nulla similis tation ulciscor vindico. Esca modo quidne vindico zelus. Abico defui exputo meus obruo oppeto velit verto virtus. Eros modo probo. Aliquam dignissim magna populus.\nAbico et exerci facilisi imputo luptatum nisl vel venio. Erat paulatim ratis refoveo rusticus vindico. Aliquam distineo neo nisl nunc nutus populus quidem ullamcorper. Paulatim refoveo vel. Abigo conventio dolor esca pneum sagaciter.\nFere pala tum. Augue bene dignissim dolus molior os premo. Ideo letalis odio qui. Gemino genitus humo natu pecus vindico. Gilvus interdico occuro premo tum. Abico ea huic probo saluto typicus utinam uxor vindico. Laoreet luctus pneum praesent roto sagaciter veniam. Luptatum quidne voco. Causa comis decet ideo iustum jumentum metuo natu persto uxor.\nDuis eligo hendrerit immitto ludus nimis os tincidunt validus. Diam euismod gemino humo ibidem immitto minim quidem. Caecus immitto roto saluto singularis. Diam erat facilisis lobortis mos natu tego torqueo virtus.\nCausa in interdico torqueo tum valde vero vindico. Aliquip amet hendrerit laoreet ludus pala refero sed verto. Amet commoveo conventio quadrum qui sed similis suscipit uxor voco.\nGravis hendrerit magna persto refoveo sino suscipit turpis ullamcorper. Causa consectetuer genitus magna populus. Accumsan capto duis ex hendrerit proprius vulpes.\nQuibus uxor wisi. Accumsan cogo comis dolus paratus scisco tamen typicus validus volutpat. Conventio enim eum haero quae scisco. Amet cui decet importunus nutus pala probo singularis valde wisi. Amet cogo jugis jumentum praesent si usitas voco.\nAbigo adipiscing duis metuo nisl zelus. Aptent loquor persto sit. Letalis magna quibus turpis ut. Antehabeo at bene feugiat loquor lucidus macto pala roto tum. Autem causa interdico jugis jumentum lucidus obruo oppeto paratus valde.\nBene caecus oppeto secundum similis sino valetudo vero vulpes. Abbas capto laoreet pertineo tincidunt virtus zelus. Acsi commoveo consectetuer esse loquor os quia rusticus venio. Augue gemino mauris praesent suscipit volutpat. Capto nostrud refoveo singularis. Aliquip damnum enim eu luptatum molior quidem ullamcorper utinam ymo. Inhibeo mauris suscipit.\nAmet comis feugiat letalis nulla populus. Gilvus singularis tego. Distineo fere hos quadrum valde. Caecus incassum secundum similis sino tation virtus. Abluo commoveo ea eros in pertineo pneum quis utrum. Capto comis eum iaceo illum luctus meus occuro paratus quae. At dolor hendrerit immitto occuro torqueo ut virtus. Blandit consequat damnum hos populus quis tamen."
+            }
+        }
+    ],
+    "body": [
+        {
+            "value": "Autem cui illum. Feugiat ideo letalis nibh nunc nutus paratus quidem utrum. Et meus refero sagaciter virtus zelus. Abluo cogo diam modo. Dolor facilisis nimis. Enim laoreet tation. Feugiat hendrerit praesent. Hos nibh persto praesent rusticus. Diam feugiat ideo jumentum neque quidne vel. Blandit jumentum modo nostrud pertineo usitas venio.\n\nElit iusto lobortis occuro refero sino vicis. Defui erat quae refoveo tego zelus. Adipiscing haero humo paratus sed. Ideo magna qui secundum. Bene dolor laoreet mauris nutus plaga similis tamen veniam vindico. Aliquam cogo decet ideo illum ulciscor zelus. Ille laoreet natu nulla quidne sagaciter tego. Abico aliquip blandit facilisi haero praemitto proprius typicus.\n\nAutem ille qui quibus utinam. Adipiscing aliquam commodo nulla similis tation ulciscor vindico. Esca modo quidne vindico zelus. Abico defui exputo meus obruo oppeto velit verto virtus. Eros modo probo. Aliquam dignissim magna populus.\n\nAbico et exerci facilisi imputo luptatum nisl vel venio. Erat paulatim ratis refoveo rusticus vindico. Aliquam distineo neo nisl nunc nutus populus quidem ullamcorper. Paulatim refoveo vel. Abigo conventio dolor esca pneum sagaciter.\n\nFere pala tum. Augue bene dignissim dolus molior os premo. Ideo letalis odio qui. Gemino genitus humo natu pecus vindico. Gilvus interdico occuro premo tum. Abico ea huic probo saluto typicus utinam uxor vindico. Laoreet luctus pneum praesent roto sagaciter veniam. Luptatum quidne voco. Causa comis decet ideo iustum jumentum metuo natu persto uxor.\n\nDuis eligo hendrerit immitto ludus nimis os tincidunt validus. Diam euismod gemino humo ibidem immitto minim quidem. Caecus immitto roto saluto singularis. Diam erat facilisis lobortis mos natu tego torqueo virtus.\n\nCausa in interdico torqueo tum valde vero vindico. Aliquip amet hendrerit laoreet ludus pala refero sed verto. Amet commoveo conventio quadrum qui sed similis suscipit uxor voco.\n\nGravis hendrerit magna persto refoveo sino suscipit turpis ullamcorper. Causa consectetuer genitus magna populus. Accumsan capto duis ex hendrerit proprius vulpes.\n\nQuibus uxor wisi. Accumsan cogo comis dolus paratus scisco tamen typicus validus volutpat. Conventio enim eum haero quae scisco. Amet cui decet importunus nutus pala probo singularis valde wisi. Amet cogo jugis jumentum praesent si usitas voco.\n\nAbigo adipiscing duis metuo nisl zelus. Aptent loquor persto sit. Letalis magna quibus turpis ut. Antehabeo at bene feugiat loquor lucidus macto pala roto tum. Autem causa interdico jugis jumentum lucidus obruo oppeto paratus valde.\n\nBene caecus oppeto secundum similis sino valetudo vero vulpes. Abbas capto laoreet pertineo tincidunt virtus zelus. Acsi commoveo consectetuer esse loquor os quia rusticus venio. Augue gemino mauris praesent suscipit volutpat. Capto nostrud refoveo singularis. Aliquip damnum enim eu luptatum molior quidem ullamcorper utinam ymo. Inhibeo mauris suscipit.\n\nAmet comis feugiat letalis nulla populus. Gilvus singularis tego. Distineo fere hos quadrum valde. Caecus incassum secundum similis sino tation virtus. Abluo commoveo ea eros in pertineo pneum quis utrum. Capto comis eum iaceo illum luctus meus occuro paratus quae. At dolor hendrerit immitto occuro torqueo ut virtus. Blandit consequat damnum hos populus quis tamen.\n\n",
+            "format": "plain_text",
+            "processed": "<p>Autem cui illum. Feugiat ideo letalis nibh nunc nutus paratus quidem utrum. Et meus refero sagaciter virtus zelus. Abluo cogo diam modo. Dolor facilisis nimis. Enim laoreet tation. Feugiat hendrerit praesent. Hos nibh persto praesent rusticus. Diam feugiat ideo jumentum neque quidne vel. Blandit jumentum modo nostrud pertineo usitas venio.<\/p>\n<p>Elit iusto lobortis occuro refero sino vicis. Defui erat quae refoveo tego zelus. Adipiscing haero humo paratus sed. Ideo magna qui secundum. Bene dolor laoreet mauris nutus plaga similis tamen veniam vindico. Aliquam cogo decet ideo illum ulciscor zelus. Ille laoreet natu nulla quidne sagaciter tego. Abico aliquip blandit facilisi haero praemitto proprius typicus.<\/p>\n<p>Autem ille qui quibus utinam. Adipiscing aliquam commodo nulla similis tation ulciscor vindico. Esca modo quidne vindico zelus. Abico defui exputo meus obruo oppeto velit verto virtus. Eros modo probo. Aliquam dignissim magna populus.<\/p>\n<p>Abico et exerci facilisi imputo luptatum nisl vel venio. Erat paulatim ratis refoveo rusticus vindico. Aliquam distineo neo nisl nunc nutus populus quidem ullamcorper. Paulatim refoveo vel. Abigo conventio dolor esca pneum sagaciter.<\/p>\n<p>Fere pala tum. Augue bene dignissim dolus molior os premo. Ideo letalis odio qui. Gemino genitus humo natu pecus vindico. Gilvus interdico occuro premo tum. Abico ea huic probo saluto typicus utinam uxor vindico. Laoreet luctus pneum praesent roto sagaciter veniam. Luptatum quidne voco. Causa comis decet ideo iustum jumentum metuo natu persto uxor.<\/p>\n<p>Duis eligo hendrerit immitto ludus nimis os tincidunt validus. Diam euismod gemino humo ibidem immitto minim quidem. Caecus immitto roto saluto singularis. Diam erat facilisis lobortis mos natu tego torqueo virtus.<\/p>\n<p>Causa in interdico torqueo tum valde vero vindico. Aliquip amet hendrerit laoreet ludus pala refero sed verto. Amet commoveo conventio quadrum qui sed similis suscipit uxor voco.<\/p>\n<p>Gravis hendrerit magna persto refoveo sino suscipit turpis ullamcorper. Causa consectetuer genitus magna populus. Accumsan capto duis ex hendrerit proprius vulpes.<\/p>\n<p>Quibus uxor wisi. Accumsan cogo comis dolus paratus scisco tamen typicus validus volutpat. Conventio enim eum haero quae scisco. Amet cui decet importunus nutus pala probo singularis valde wisi. Amet cogo jugis jumentum praesent si usitas voco.<\/p>\n<p>Abigo adipiscing duis metuo nisl zelus. Aptent loquor persto sit. Letalis magna quibus turpis ut. Antehabeo at bene feugiat loquor lucidus macto pala roto tum. Autem causa interdico jugis jumentum lucidus obruo oppeto paratus valde.<\/p>\n<p>Bene caecus oppeto secundum similis sino valetudo vero vulpes. Abbas capto laoreet pertineo tincidunt virtus zelus. Acsi commoveo consectetuer esse loquor os quia rusticus venio. Augue gemino mauris praesent suscipit volutpat. Capto nostrud refoveo singularis. Aliquip damnum enim eu luptatum molior quidem ullamcorper utinam ymo. Inhibeo mauris suscipit.<\/p>\n<p>Amet comis feugiat letalis nulla populus. Gilvus singularis tego. Distineo fere hos quadrum valde. Caecus incassum secundum similis sino tation virtus. Abluo commoveo ea eros in pertineo pneum quis utrum. Capto comis eum iaceo illum luctus meus occuro paratus quae. At dolor hendrerit immitto occuro torqueo ut virtus. Blandit consequat damnum hos populus quis tamen.<\/p>\n",
+            "summary": "Autem cui illum. Feugiat ideo letalis nibh nunc nutus paratus quidem utrum. Et meus refero sagaciter virtus zelus. Abluo cogo diam modo. Dolor facilisis nimis. Enim laoreet tation. Feugiat hendrerit praesent. Hos nibh persto praesent rusticus. Diam feugiat ideo jumentum neque quidne vel. Blandit jumentum modo nostrud pertineo usitas venio.\n\nElit iusto lobortis occuro refero sino vicis. Defui erat quae refoveo tego zelus. Adipiscing haero humo paratus sed. Ideo magna qui secundum. Bene dolor laoreet mauris nutus plaga similis tamen veniam vindico. Aliquam cogo decet ideo illum ulciscor zelus. Ille laoreet natu nulla quidne sagaciter tego. Abico aliquip blandit facilisi haero praemitto proprius typicus.\n\nAutem ille qui quibus utinam. Adipiscing aliquam commodo nulla similis tation ulciscor vindico. Esca modo quidne vindico zelus. Abico defui exputo meus obruo oppeto velit verto virtus. Eros modo probo. Aliquam dignissim magna populus.\n\nAbico et exerci facilisi imputo luptatum nisl vel venio. Erat paulatim ratis refoveo rusticus vindico. Aliquam distineo neo nisl nunc nutus populus quidem ullamcorper. Paulatim refoveo vel. Abigo conventio dolor esca pneum sagaciter.\n\nFere pala tum. Augue bene dignissim dolus molior os premo. Ideo letalis odio qui. Gemino genitus humo natu pecus vindico. Gilvus interdico occuro premo tum. Abico ea huic probo saluto typicus utinam uxor vindico. Laoreet luctus pneum praesent roto sagaciter veniam. Luptatum quidne voco. Causa comis decet ideo iustum jumentum metuo natu persto uxor.\n\nDuis eligo hendrerit immitto ludus nimis os tincidunt validus. Diam euismod gemino humo ibidem immitto minim quidem. Caecus immitto roto saluto singularis. Diam erat facilisis lobortis mos natu tego torqueo virtus.\n\nCausa in interdico torqueo tum valde vero vindico. Aliquip amet hendrerit laoreet ludus pala refero sed verto. Amet commoveo conventio quadrum qui sed similis suscipit uxor voco.\n\nGravis hendrerit magna persto refoveo sino suscipit turpis ullamcorper. Causa consectetuer genitus magna populus. Accumsan capto duis ex hendrerit proprius vulpes.\n\nQuibus uxor wisi. Accumsan cogo comis dolus paratus scisco tamen typicus validus volutpat. Conventio enim eum haero quae scisco. Amet cui decet importunus nutus pala probo singularis valde wisi. Amet cogo jugis jumentum praesent si usitas voco.\n\nAbigo adipiscing duis metuo nisl zelus. Aptent loquor persto sit. Letalis magna quibus turpis ut. Antehabeo at bene feugiat loquor lucidus macto pala roto tum. Autem causa interdico jugis jumentum lucidus obruo oppeto paratus valde.\n\nBene caecus oppeto secundum similis sino valetudo vero vulpes. Abbas capto laoreet pertineo tincidunt virtus zelus. Acsi commoveo consectetuer esse loquor os quia rusticus venio. Augue gemino mauris praesent suscipit volutpat. Capto nostrud refoveo singularis. Aliquip damnum enim eu luptatum molior quidem ullamcorper utinam ymo. Inhibeo mauris suscipit.\n\nAmet comis feugiat letalis nulla populus. Gilvus singularis tego. Distineo fere hos quadrum valde. Caecus incassum secundum similis sino tation virtus. Abluo commoveo ea eros in pertineo pneum quis utrum. Capto comis eum iaceo illum luctus meus occuro paratus quae. At dolor hendrerit immitto occuro torqueo ut virtus. Blandit consequat damnum hos populus quis tamen.\n\n",
+            "lang": "en"
+        }
+    ]
+}
