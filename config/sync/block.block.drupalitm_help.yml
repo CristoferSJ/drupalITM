@@ -1,0 +1,22 @@
+uuid: 0f493bc8-22f4-407a-9925-cef48bcd3146
+langcode: en
+status: true
+dependencies:
+  module:
+    - help
+  theme:
+    - drupalitm
+_core:
+  default_config_hash: 8I8iACSa0sKO3k3jlvUG1ge52rfcKX7USJAQYnzuBgg
+id: drupalitm_help
+theme: drupalitm
+region: content
+weight: -8
+provider: null
+plugin: help_block
+settings:
+  id: help_block
+  label: Help
+  provider: help
+  label_display: '0'
+visibility: {  }

@@ -1,14 +1,14 @@
-uuid: cc55b6e8-1efe-4e91-ba42-b04d78fb71f8
+uuid: 3369aef7-12db-48be-8f3d-c971d611d4e1
 langcode: en
 status: true
 dependencies:
   module:
     - drupal_itm_demos
   theme:
-    - bartik
-id: infomtionblog
-theme: bartik
-region: featured_top
+    - bootstrap_barrio
+id: bootstrap_barrio_infomtionblog
+theme: bootstrap_barrio
+region: sidebar_first
 weight: 0
 provider: null
 plugin: infomtion_blog
