@@ -1,0 +1,5 @@
+name: 'itm_lab3'
+type: module
+description: 'Laboratorio 3 drupal'
+core: 8.x
+package: 'Custom'
